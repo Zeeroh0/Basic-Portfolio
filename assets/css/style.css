@@ -1,0 +1,54 @@
+body {
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	background-image: url("../assets/images/Stock-Images/brick-and-light.jpeg"); 
+	color: #777777; 
+	width: 960px;
+}
+
+h1 {
+	font-family: "Georgia", Times, "Times New Roman", serif;
+	color: #ffffff;
+	background: #4aaaa5;
+	padding: 20px;
+
+}
+
+h2 {
+	font-family: "Georgia", Times, "Times New Roman", serif;
+	color: #4aaaa5;
+
+}
+
+.Nav {
+	text-decoration: none;
+
+}
+
+.AboutMe {
+	width: 650px;
+	float: left;
+	margin: 0px 10px;
+	border: 2px solid #eee;
+}
+
+#ProfilePic {
+	float: left;
+	margin: 0px 10px;
+}
+
+.Connect {
+	width: 270px;
+ 	float: right;
+ 	border: 2px solid #eee;
+}
+
+footer {
+	clear: both;
+	background: #808287;
+	font-size: 65%;
+	text-align: center;
+	color: #ffffff;
+	border-top: 5px solid #4aaaa5;
+	padding: 30px;
+}
+
