@@ -1,3 +1,3 @@
 # Basic-Portfolio
 
-This will be the portfolio repository
+Week 1 challenge homework. 
